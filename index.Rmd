@@ -1,14 +1,12 @@
 ---
-title: "My Final Project Template"
-author: Your name here
-subtitle: Subtitle here if desired
+title: "Spatio-temporal Interaction Analysis on New York City Shooting Incidents"
+author: Fan Li
+subtitle: GEO 511 Spatial Data Science Final Project
 ---
 
 # Introduction
 
-[~ 200 words]
-
-Clearly stated background and questions / hypotheses / problems being addressed. Sets up the analysis in an interesting and compelling way.
+[~200 words]
 
 # Materials and methods
 
