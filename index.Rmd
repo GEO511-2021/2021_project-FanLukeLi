@@ -43,7 +43,6 @@ library(surveillance)
 library(mapproj)
 library(sf)
 library(mapview)
-knitr::opts_chunk$set(cache=TRUE)  # cache the results for quick compiling
 ```
 
 ## Data cleaning and first figure
