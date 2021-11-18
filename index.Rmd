@@ -6,7 +6,9 @@ subtitle: GEO 511 Spatial Data Science Final Project
 
 # Introduction
 
-[~200 words]
+There are hundreds of shooting incidents in New York city on a yearly basis. Despite the statistics of crime events have been declining since 1990 in New York, in the number of shooting incidents was nearly double in 2020 compared to the year before. Even under the circumstances of COVID-19 pandemic, shooting incidents are still happening by a great number. This project explores the following questions: Are these shooting incidents have spatial and temporal connections? Do they happen in particular regions and time periods? What do the spatiotemporal interaction of these events suggests? And why are they clustered spatially and temporally? What could be done given this spatiotemporal interaction? Some basic hypotheses are: There is spatiotemporal interaction among a part of shooting incidents that happen in New York city every year and they could be explained by socioeconomic factors. The spatiotemporal interaction is tested with a statistical method called Knox statistic test. The correlation of spatiotemporal clusters of shooting incidents and socioeconomic variables are calculated to find causalities. As for results and conclusions, there is spatiotemporal interaction among NYC shooting incidents, and these spatiotemporal clusters have causality relationship with socioeconomic environments. 
+
+Key words: Shooting incident, NYC, spatiotemporal interaction, Knox test, socioeconomic factors
 
 # Materials and methods
 
